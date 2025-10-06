@@ -11,3 +11,14 @@ Students should complete the following steps to implement a Java function that p
 - [ ] Return the first name and last name as a single string (e.g., "firstname lastname").
 - [ ] Test the function using sample email addresses (e.g., "john.doe@example.com" should return "john doe").
 - [ ] Document your code with comments explaining each step.
+
+
+public class EmailParser {
+    public static void main(String[] args) {
+        String email = "micah.zhou@gmail.com";
+        String name = email.split("@")[0];
+        String last = name.replace(".", " ");
+        System.out.println(last);
+    }
+
+}

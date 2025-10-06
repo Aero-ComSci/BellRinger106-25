@@ -11,3 +11,5 @@ Students should complete the following steps to implement a Java function that p
 - [ ] Return the first name and last name as a single string (e.g., "firstname lastname").
 - [ ] Test the function using sample email addresses (e.g., "john.doe@example.com" should return "john doe").
 - [ ] Document your code with comments explaining each step.
+
+<img width="1409" height="933" alt="image" src="https://github.com/user-attachments/assets/c1e09566-794c-4efc-9f68-bcdc4e6fba01" />
